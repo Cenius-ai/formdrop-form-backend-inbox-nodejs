@@ -1,0 +1,21 @@
+{
+  "name": "formdrop",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Formdrop — a self-hostable form backend for static sites: form endpoints, a submission inbox with spam flags, allowed-origin and honeypot settings, and CSV export.",
+  "main": "main.js",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "test": "node --test tests/"
+  },
+  "keywords": [
+    "formspree",
+    "forms",
+    "static-site",
+    "self-hosted",
+    "inbox"
+  ],
+  "license": "MIT"
+}
